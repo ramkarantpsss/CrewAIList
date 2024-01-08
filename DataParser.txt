@@ -1,0 +1,140 @@
+{
+  "id": "gid://shopify/Product/8766147035409",
+  "variants": {
+    "edges": [
+      {
+        "node": {
+          "title": "brown/black / rattan/iron / Small",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "brown/black"
+            },
+            {
+              "name": "Material",
+              "value": "rattan/iron"
+            },
+            {
+              "name": "Size",
+              "value": "Small"
+            }
+          ]
+        }
+      },
+      {
+        "node": {
+          "title": "brown/black / rattan/iron / Medium",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "brown/black"
+            },
+            {
+              "name": "Material",
+              "value": "rattan/iron"
+            },
+            {
+              "name": "Size",
+              "value": "Medium"
+            }
+          ]
+        }
+      },
+      {
+        "node": {
+          "title": "brown/black / synthetic rattan / Small",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "brown/black"
+            },
+            {
+              "name": "Material",
+              "value": "synthetic rattan"
+            },
+            {
+              "name": "Size",
+              "value": "Small"
+            }
+          ]
+        }
+      },
+      {
+        "node": {
+          "title": "brown/black / synthetic rattan / Large",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "brown/black"
+            },
+            {
+              "name": "Material",
+              "value": "synthetic rattan"
+            },
+            {
+              "name": "Size",
+              "value": "Large"
+            }
+          ]
+        }
+      },
+      {
+        "node": {
+          "title": "grey/black / rattan/iron / Large",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "grey/black"
+            },
+            {
+              "name": "Material",
+              "value": "rattan/iron"
+            },
+            {
+              "name": "Size",
+              "value": "Large"
+            }
+          ]
+        }
+      },
+      {
+        "node": {
+          "title": "grey/black / rattan/iron / Too Large",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "grey/black"
+            },
+            {
+              "name": "Material",
+              "value": "rattan/iron"
+            },
+            {
+              "name": "Size",
+              "value": "Too Large"
+            }
+          ]
+        }
+      },
+      {
+        "node": {
+          "title": "grey/black / synthetic rattan / Too Large",
+          "selectedOptions": [
+            {
+              "name": "Color",
+              "value": "grey/black"
+            },
+            {
+              "name": "Material",
+              "value": "synthetic rattan"
+            },
+            {
+              "name": "Size",
+              "value": "Too Large"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
